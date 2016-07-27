@@ -8,6 +8,13 @@ var badgeInfos = [
 		avatar	        : '/examples/contact-sharing-in-ar/avatars/avatar-0.jpg',
 	},
 	{
+		firstName	: 'Chris',
+		lastName	: 'Jones',
+		role            : 'designer',
+		markerId	: 196,
+		avatar	        : '/examples/contact-sharing-in-ar/avatars/avatar-265.jpg',
+	},
+	{
 		firstName	: 'Adam',
 		lastName	: 'Huxley',
 		role            : 'designer',
