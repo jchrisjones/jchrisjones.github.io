@@ -36,7 +36,7 @@ It shows a possible data visualisation with 3d histogram. You can change the val
 -
 [vine video](https://vine.co/v/ei1TDWLrYiX)
 * [examples/contact-sharing-in-ar.html](http://jeromeetienne.github.io/arplayerforthreejs/examples/contact-sharing-in-ar.html)
-\[[view source](https://github.com/jeromeetienne/arplayerforthreejs/blob/master/examples/contact-sharing-in-ar.html)\] :
+\ https://jchrisjones.github.io/examples/contact-sharing-in-ar.html :
 It shows how to display informations on a per-marker basis.
 There is a database which contains the informations. When the proper marker is recognized, the info specific to this marker is displayed. In this example, we provide a contact sharing webapp. Everybody got his own marker. Suppose alice wears a specific marker. Bob load the apps on his mobile, and will see alice contact information when he point it to alice.
 -
