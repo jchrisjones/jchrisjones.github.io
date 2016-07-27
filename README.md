@@ -30,8 +30,7 @@ and
 It shows a basic augmented reality webapp. Good to learn how to use the code. Perfect start point.
 -
 [youtube video](https://www.youtube.com/watch?v=fz9bmOfYvG0)
-* [examples/data-visualization-histogram3d.html](http://jeromeetienne.github.io/arplayerforthreejs/examples/data-visualization-histogram3d.html)
-\[[view source](https://github.com/jeromeetienne/arplayerforthreejs/blob/master/examples/data-visualization-histogram3d.html)\] :
+* [examples/data-visualization-histogram3d.html](http://jchrisjones.github.io/examples/data-visualization-histogram3d.html)
 It shows a possible data visualisation with 3d histogram. You can change the value the way you like. You can get them from a REST API, or from an industrial sensor, what ever you want.
 -
 [vine video](https://vine.co/v/ei1TDWLrYiX)
