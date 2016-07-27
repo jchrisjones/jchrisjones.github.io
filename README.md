@@ -6,7 +6,9 @@ I did a presentation about it. You can find the [slides](http://jeromeetienne.gi
 here.
 
 # How To Run The Demo ?
-- put a browser on https://jchrisjones.github.io/examples/basic.html#webcam
+- put a browser on 
+- 
+- https://jchrisjones.github.io/examples/basic.html#webcam
 -  
 -https://jchrisjones.github.io/examples/contact-sharing-in-ar.html
 - 
