@@ -12,7 +12,7 @@ var badgeInfos = [
 		lastName	: 'Jones',
 		role            : 'designer',
 		markerId	: 196,
-		avatar	        : '/examples/contact-sharing-in-ar/avatars/avatar-265.jpg',
+		avatar	        : '/examples/contact-sharing-in-ar/avatars/avatar-196.jpg',
 	},
 	{
 		firstName	: 'Adam',
