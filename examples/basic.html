@@ -18,14 +18,8 @@
 <body style='margin: 0px; overflow: hidden; text-align:center;'>
 
 <div id='info' style='position: absolute; top: 0px; width: 100%;font-family:arial; font-weight: bolder; padding-top: 5px;'>
-	Augmented Reality with <a href="http://threejs.org" target="_blank">three.js</a>
-	- works on desktop and mobile
-	- require <a href='https://get.webgl.org/'>WebGL</a> and <a href='http://caniuse.com/#feat=stream'>getUserMedia</a> Support
-	<br/>
-	Source:
-	<a class='webcam' href='javascript:void();'>webcam</a> -
-	<a class='image'  href='javascript:void();'>image</a> -
-	<a class='video'  href='javascript:void();'>video</a>
+	A
+	<a class='webcam' href='javascript:void();'>webcam</a>
 </div>
 
 <script>
@@ -71,16 +65,16 @@
 	//		add an object in the markerObject3D
 	//////////////////////////////////////////////////////////////////////////////////
 	// add some debug display
-	;(function(){
-		var geometry = new THREE.PlaneGeometry(1,1,10,10)
-		var material = new THREE.MeshBasicMaterial( {
-			wireframe : true
-		})
-		var mesh = new THREE.Mesh(geometry, material);
-		markerObject3D.add( mesh );
-		var mesh = new THREE.AxisHelper
-		markerObject3D.add( mesh );
-	})()
+	//;(function(){
+	//	var geometry = new THREE.PlaneGeometry(1,1,10,10)
+	//	var material = new THREE.MeshBasicMaterial( {
+	//		wireframe : true
+	//	})
+	//	var mesh = new THREE.Mesh(geometry, material);
+	//	markerObject3D.add( mesh );
+	//	var mesh = new THREE.AxisHelper
+	//	markerObject3D.add( mesh );
+	//})()
 	// add a awesome logo to the scene
 	;(function(){
 		var material = new THREE.SpriteMaterial({
