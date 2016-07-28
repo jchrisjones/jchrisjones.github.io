@@ -42,17 +42,17 @@
 	//////////////////////////////////////////////////////////////////////////////////
 
 	// add some debug display
-	;(function(){
-		var geometry = new THREE.PlaneGeometry(1,1,10,10)
-		var material = new THREE.MeshBasicMaterial( {
-			wireframe : true
-		})
-		var mesh = new THREE.Mesh(geometry, material);
-		scene.add( mesh );
+	//;(function(){
+	//	var geometry = new THREE.PlaneGeometry(1,1,10,10)
+	//	var material = new THREE.MeshBasicMaterial( {
+	//		wireframe : true
+	//	})
+	//	var mesh = new THREE.Mesh(geometry, material);
+	//	scene.add( mesh );
 
-		var mesh = new THREE.AxisHelper
-		scene.add( mesh );
-	})()
+	//	var mesh = new THREE.AxisHelper
+	//	scene.add( mesh );
+	//})()
 
 	// add a awesome logo to the scene
 	;(function(){
@@ -63,6 +63,11 @@
 		var object3d = new THREE.Sprite(material );
 		object3d.scale.set( 2, 2, 1 );
 		scene.add(object3d)
+
+		var msg = new SpeechSynthesisUtterance(
+				'This is RBS Islington Branch. Opening hours' +
+				 'are from 9 o\'clock to 5o\'clock.');
+    		window.speechSynthesis.speak(msg);
 	})()
 
 	//////////////////////////////////////////////////////////////////////////////////
@@ -140,6 +145,7 @@
 
 			object3d.visible = true
 		})
+	
 	})
 </script>
 
