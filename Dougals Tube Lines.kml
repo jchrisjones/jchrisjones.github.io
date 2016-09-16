@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>London Tube Lines</name>
+    <Style id="Bakerloo">
+      <LineStyle>
+        <color>ff1861ae</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="District">
+      <LineStyle>
+        <color>ff75a500</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="Northern">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="Victoria">
+      <LineStyle>
+        <color>ffe09f00</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+
+	<!-- Bakerloo -->
+	<!-- Baker Street -->
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.15690419441262,51.5231296204391,0
+-0.145344410943574,51.523810673215,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.145344410943574,51.523810673215,0
+-0.140836171281216,51.5152234024753,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.140836171281216,51.5152234024753,0
+-0.133711597193113,51.5096967485824,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.133711597193113,51.5096967485824,0
+-0.124802938133095,51.5083586300048,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.124802938133095,51.5083586300048,0
+-0.122367336527157,51.5073124947768,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.122367336527157,51.5073124947768,0
+-0.113259251998453,51.5031466396974,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.113259251998453,51.5031466396974,0
+-0.111768261180963,51.4991299458658,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Elephant -->
+	<Placemark>
+      <name>Bakerloo</name>
+      <styleUrl>#Bakerloo</styleUrl>
+      <LineString>
+        <coordinates>-0.111768261180963,51.4991299458658,0
+		-0.100738714840864,51.4958493824392,0
+		</coordinates>
+      </LineString>
+    </Placemark>
+	
+    <!-- District -->
+	<Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.0730014627258136,51.5150816226404,0
+-0.0767011984581268,51.5103942732372,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.0767011984581268,51.5103942732372,0
+-0.0861883136877794,51.5106304159018,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.0861883136877794,51.5106304159018,0
+-0.0902505268833338,51.5113620889071,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.0902505268833338,51.5113620889071,0
+-0.0941976577543322,51.5120917501221,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.0941976577543322,51.5120917501221,0
+-0.102995385235787,51.5115869277802,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.102995385235787,51.5115869277802,0
+-0.113725750277665,51.5110406072706,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>District</name>
+      <styleUrl>#District</styleUrl>
+      <LineString>
+        <coordinates>-0.113725750277665,51.5110406072706,0
+-0.122367336527157,51.5073124947768,0
+</coordinates>
+      </LineString>
+    </Placemark>
+   
+    <!-- Northern Line -->
+	<!-- Clapham Common -->
+    <Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.138314902494851,51.4618036698523,0
+-0.129910062890382,51.4649162149925,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.129910062890382,51.4649162149925,0
+-0.122846304228405,51.4721592557897,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.122846304228405,51.4721592557897,0
+-0.11332107586241,51.4814126004267,0
+</coordinates>
+      </LineString>
+    </Placemark>
+	
+	<!-- Kennington -->
+    <Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.11332107586241,51.4814126004267,0
+-0.105070613410369,51.4886624583341,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Elephant -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.105070613410369,51.4886624583341,0
+-0.100738714840864,51.4958493824392,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Borough -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.100738714840864,51.4958493824392,0
+-0.0941973231491299,51.501048869407,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- London Bridge -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.0941973231491299,51.501048869407,0
+-0.0860055981730393,51.5046743475629,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Bank -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.0860055981730393,51.5046743475629,0
+-0.0890001239496697,51.513347062296,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Moorgate -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.0890001239496697,51.513347062296,0
+-0.0890176878750945,51.5184371390077,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Old Street -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.0890176878750945,51.5184371390077,0
+-0.0876229578285339,51.525581471626,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Angel -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.0876229578285339,51.525581471626,0
+-0.105581448946398,51.5329680156891,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- King's Cross -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.105581448946398,51.5329680156891,0
+-0.123872129573615,51.5303124622023,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Euston -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.123872129573615,51.5303124622023,0
+-0.133296471846732,51.5286643305288,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.133296471846732,51.5286643305288,0
+-0.142452381051009,51.539969352277,0
+</coordinates>
+      </LineString>
+    </Placemark>   
+    
+	<!-- Victoria -->
+	<!-- Highbury -->
+    <Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.104082139863697,51.5464955066651,0
+-0.123872129573615,51.5303124622023,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- King's Cross -->
+	<Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.123872129573615,51.5303124622023,0
+-0.138278331644798,51.5245799886272,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.138278331644798,51.5245799886272,0
+-0.140836171281216,51.5152234024753,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.140836171281216,51.5152234024753,0
+-0.142477575597482,51.5067604844939,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.142477575597482,51.5067604844939,0
+-0.143920706325316,51.4964239527317,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.143920706325316,51.4964239527317,0
+-0.13310825841606,51.4895528621095,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Victoria</name>
+      <styleUrl>#Victoria</styleUrl>
+      <LineString>
+        <coordinates>-0.13310825841606,51.4895528621095,0
+-0.123829952856406,51.4857358017157,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    
+    
+  </Document>
+</kml>
