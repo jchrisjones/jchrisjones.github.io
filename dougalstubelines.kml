@@ -103,16 +103,7 @@
       </LineString>
     </Placemark>
 	
-    <!-- District -->
-	<Placemark>
-      <name>District</name>
-      <styleUrl>#District</styleUrl>
-      <LineString>
-        <coordinates>-0.0730014627258136,51.5150816226404,0
--0.0767011984581268,51.5103942732372,0
-</coordinates>
-      </LineString>
-    </Placemark>
+    <!-- District -->	
     <Placemark>
       <name>District</name>
       <styleUrl>#District</styleUrl>
@@ -238,12 +229,22 @@
 </coordinates>
       </LineString>
     </Placemark>
-    <!-- Bank -->
+	<!-- Monument -->
 	<Placemark>
       <name>Northern</name>
       <styleUrl>#Northern</styleUrl>
       <LineString>
         <coordinates>-0.0860055981730393,51.5046743475629,0
+-0.086188,51.51063,0
+</coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Bank -->
+	<Placemark>
+      <name>Northern</name>
+      <styleUrl>#Northern</styleUrl>
+      <LineString>
+        <coordinates>-0.086188,51.51063,0
 -0.0890001239496697,51.513347062296,0
 </coordinates>
       </LineString>

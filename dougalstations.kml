@@ -52,6 +52,19 @@
       </Point>
     </Placemark>
 	<Placemark>
+      <name>Piccadilly Circus</name>
+      <styleUrl>#station1</styleUrl>
+      <description>
+        <div>Zone: 1</div>
+        <div>Postcode: W1J 9HS</div>
+        <div>Latitude: 51.509697</div>
+        <div>Longitude: -0.133712</div>        
+      </description>
+      <Point>
+        <coordinates>-0.133712,51.509697,0</coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
       <name>Embankment</name>
       <styleUrl>#station</styleUrl>
       <description>
@@ -122,8 +135,11 @@
       <description>
         <div>Zone: 1</div>
         <div>Postcode: N1 9AL</div>
-        <div>Latitude: 51.530798</div>
-        <div>Longitude: -0.122756</div>        
+        <div>Latitude: 51.530888</div>
+		
+		51.530888,-0.122491
+		
+        <div>Longitude: -0.122491</div>        
       </description>
       <Point>
         <coordinates>-0.122756,51.530798,0</coordinates>
@@ -341,11 +357,23 @@
         <div>Zone: 1</div>
         <div>Postcode: WC2R 2PH</div>
         <div>Latitude: 51.511041</div>
-        <div>Longitude: -0.113726</div>
-        
+        <div>Longitude: -0.113726</div>        
       </description>
       <Point>
         <coordinates>-0.113726,51.511041,0</coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
+      <name>Victoria</name>
+      <styleUrl>#station</styleUrl>
+      <description>
+        <div>Zone: 1</div>
+        <div>Postcode: SW1E 5JX</div>
+        <div>Latitude: 51.496424</div>
+        <div>Longitude: -0.143921</div>        
+      </description>
+      <Point>
+        <coordinates>-0.143921,51.496424,0</coordinates>
       </Point>
     </Placemark>
 	</Document>
