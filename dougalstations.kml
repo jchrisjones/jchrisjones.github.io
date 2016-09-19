@@ -136,9 +136,6 @@
         <div>Zone: 1</div>
         <div>Postcode: N1 9AL</div>
         <div>Latitude: 51.530888</div>
-		
-		51.530888,-0.122491
-		
         <div>Longitude: -0.122491</div>        
       </description>
       <Point>
@@ -183,20 +180,6 @@
       <Point>
         <coordinates>-0.142478,51.50676,0</coordinates>
       </Point>
-    </Placemark>
-	<Placemark>
-      <name>Royal Victoria</name>
-      <styleUrl>#station3</styleUrl>
-      <description>
-        <div>Zone: 3</div>
-        <div>Postcode: E16 1DE</div>
-        <div>Latitude: 51.509055</div>
-        <div>Longitude: 0.017965</div>       
-      </description>
-      <Point>
-        <coordinates>0.017965,51.509055,0</coordinates>
-      </Point>
-    </Placemark>
 	<Placemark>
       <name>Vauxhall</name>
       <styleUrl>#station</styleUrl>
@@ -218,7 +201,6 @@
         <div>Postcode: NW1 8NH</div>
         <div>Latitude: 51.539969</div>
         <div>Longitude: -0.142452</div>
-        
       </description>
       <Point>
         <coordinates>-0.142452,51.539969,0</coordinates>
@@ -232,7 +214,6 @@
         <div>Postcode: NW1 2DU</div>
         <div>Latitude: 51.528664</div>
         <div>Longitude: -0.133296</div>
-        
       </description>
       <Point>
         <coordinates>-0.133296,51.528664,0</coordinates>
