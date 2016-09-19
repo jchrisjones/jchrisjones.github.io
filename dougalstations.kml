@@ -169,18 +169,6 @@
       </Point>
     </Placemark>
 	<Placemark>
-      <name>Green Park</name>
-      <styleUrl>#station</styleUrl>
-      <description>
-        <div>Zone: 1</div>
-        <div>Postcode: W1J 7BX</div>
-        <div>Latitude: 51.50676</div>
-        <div>Longitude: -0.142478</div>        
-      </description>
-      <Point>
-        <coordinates>-0.142478,51.50676,0</coordinates>
-      </Point>
-	<Placemark>
       <name>Vauxhall</name>
       <styleUrl>#station</styleUrl>
       <description>
@@ -227,7 +215,6 @@
         <div>Postcode: N1 8XB</div>
         <div>Latitude: 51.532968</div>
         <div>Longitude: -0.105581</div>
-       
       </description>
       <Point>
         <coordinates>-0.105581,51.532968,0</coordinates>
@@ -241,7 +228,6 @@
         <div>Postcode: EC4R 9AA</div>
         <div>Latitude: 51.51063</div>
         <div>Longitude: -0.086188</div>
-        
       </description>
       <Point>
         <coordinates>-0.086188,51.51063,0</coordinates>
@@ -255,7 +241,6 @@
         <div>Postcode: SE1 2SW</div>
         <div>Latitude: 51.504674</div>
         <div>Longitude: -0.086006</div>
-        
       </description>
       <Point>
         <coordinates>-0.086006,51.504674,0</coordinates>
@@ -269,7 +254,6 @@
         <div>Postcode: SW4 7AJ</div>
         <div>Latitude: 51.461804</div>
         <div>Longitude: -0.138315</div>
-       
       </description>
       <Point>
         <coordinates>-0.138315,51.461804,0</coordinates>
@@ -283,7 +267,6 @@
         <div>Postcode: EC3N 4DJ</div>
         <div>Latitude: 51.510394</div>
         <div>Longitude: -0.076701</div>
-        
       </description>
       <Point>
         <coordinates>-0.076701,51.510394,0</coordinates>
@@ -297,7 +280,6 @@
         <div>Postcode: EC4N 6AP</div>
         <div>Latitude: 51.511362</div>
         <div>Longitude: -0.090251</div>
-        
       </description>
       <Point>
         <coordinates>-0.090251,51.511362,0</coordinates>
@@ -311,7 +293,6 @@
         <div>Postcode: EC4N 6JD</div>
         <div>Latitude: 51.512092</div>
         <div>Longitude: -0.094198</div>
-        
       </description>
       <Point>
         <coordinates>-0.094198,51.512092,0</coordinates>
@@ -325,7 +306,6 @@
         <div>Postcode: EC4V 4DD</div>
         <div>Latitude: 51.511587</div>
         <div>Longitude: -0.102995</div>
-        
       </description>
       <Point>
         <coordinates>-0.102995,51.511587,0</coordinates>
